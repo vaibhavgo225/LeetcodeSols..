@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 ## String
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
