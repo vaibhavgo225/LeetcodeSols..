@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,8 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0011-container-with-most-water) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 <!---LeetCode Topics End-->
