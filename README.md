@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 ## Sliding Window
