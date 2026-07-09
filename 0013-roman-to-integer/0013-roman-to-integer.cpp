@@ -1,5 +1,19 @@
 class Solution {
 public:
+
+    int romanToInt(string s) {
+        int sum=0;
+        for(int i=0;i<s.size();i++){
+            int current= value(s[i]);
+            int next = value(s[i+1]);
+            if(current<next)
+            sum -=current;
+            else
+            sum +=current;
+        }
+        return sum;
+    }
+private :
 int value(char c){
     switch(c)
         {
@@ -13,16 +27,4 @@ int value(char c){
             default : return 0;
         }
 }
-    int romanToInt(string s) {
-        int sum=0;
-        for(int i=0;i<s.size();i++){
-            int current= value(s[i]);
-            int next = value(s[i+1]);
-            if(current<next)
-            sum -=current;
-            else
-            sum +=current;
-        }
-        return sum;
-    }
 };
