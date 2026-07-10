@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/2469-convert-the-temperature) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
