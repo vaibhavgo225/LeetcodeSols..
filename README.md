@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
