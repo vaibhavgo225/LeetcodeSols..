@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
