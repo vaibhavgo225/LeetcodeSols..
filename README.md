@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
