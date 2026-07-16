@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/2469-convert-the-temperature) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
