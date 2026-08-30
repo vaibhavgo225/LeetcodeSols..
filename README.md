@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
