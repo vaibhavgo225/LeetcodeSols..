@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0070-climbing-stairs) |
@@ -121,5 +122,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
