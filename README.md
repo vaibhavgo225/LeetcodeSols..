@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0125-valid-palindrome) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
