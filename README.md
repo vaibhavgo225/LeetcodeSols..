@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
