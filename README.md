@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -159,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
