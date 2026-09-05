@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -109,9 +112,11 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 ## Simulation
 |  |
@@ -174,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
