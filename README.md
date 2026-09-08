@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vaibhavgo225/LeetcodeSols../tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
